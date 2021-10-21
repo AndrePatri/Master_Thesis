@@ -1,1 +1,1 @@
-# Holds the compressed version of the thesis pdf
+# Compressed version of the thesis pdf
