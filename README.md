@@ -10,3 +10,17 @@ Should you need the original version of the pdf and/or some of the material, fee
 Please also take a look at:
 [WheeBBot-v1](https://github.com/AndPatr/WheeBBot-v1)
 
+## Synthetic description of the thesis:
+
+- Kinematics and Dynamics modeling.
+
+- Gazebo robot simulator (with complete SDF model of the robot) for high fidelity results.
+
+- Custom Matlab simulator.
+
+- Control properties analysis.
+
+- Control design and implementation: Linear Stable Inversion+LQR state trajectory tracking, Intrinsically Stable MPC ("IS-MPC"), Task-Space tracker, double stage ISMPC+Task-Space tracker for performing jumping motion.
+
+- Prototype design and implementation (with fixed leg knee).
+
