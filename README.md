@@ -1,6 +1,6 @@
 # "Control and Design of a Two-Wheeled Balancing Mobile Robot with Actuated Legs"
 
-![WheeBBot](https://github.com/AndPatr/github_repo_images/tree/main/master_thesis/repo_image.jpg)
+![repo_image](https://github.com/AndPatr/github_repo_images/tree/main/master_thesis/repo_image.jpg)
 
 This folder contains some represetative files concerning my Master's thesis.
 These include a compressed pdf version of the thesis (some images will not be of the highest quality or can become distorted, due to compression) and the Gazebo folder, with the used models, plugin, meshes, etc.. .
