@@ -1,4 +1,4 @@
-# "Control and design of a two-wheeled balancing mobile robot with actuated legs" (master thesis)
+# "Control and Design of a Two-Wheeled Balancing Mobile Robot with Actuated Legs" (master thesis)
 
 This folder contains some represetative files concerning my Master's thesis.
 These include a compressed pdf version of the thesis (some images will not be of the highest quality or can become distorted, due to compression).
